@@ -85,7 +85,7 @@ SauceDemo provides built-in test accounts, all using the same password: `secret_
 ### Install
 
 ```bash
-git clone https://github.com/danieloyebode/playwright-automationexercise-ui.git
+git clone https://github.com/oyebodedaniel/playwright-automationexercise-ui.git
 cd playwright-automationexercise-ui
 npm install
 npx playwright install --with-deps
