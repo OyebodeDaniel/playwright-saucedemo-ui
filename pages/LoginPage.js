@@ -11,6 +11,7 @@ class LoginPage extends BasePage {
 
   async open() {
     await this.navigate('/');
+    await this.page.waitForLoadState('domcontentloaded');
     await this.waitForVisible(this.usernameInput);
   }
 
