@@ -1,6 +1,6 @@
 # Playwright UI Automation — SauceDemo (Swag Labs)
 
-![Playwright Tests](https://github.com/danieloyebode/playwright-automationexercise-ui/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/oyebodedaniel/playwright-automationexercise-ui/actions/workflows/playwright.yml/badge.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
