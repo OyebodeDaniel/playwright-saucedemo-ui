@@ -160,4 +160,4 @@ Artifacts (HTML report, Allure results, failure screenshots/videos) are uploaded
 
 **Daniel Oyebode**
 Senior QA Automation Engineer | ISTQB Certified Tester (No. 00542143)
-[LinkedIn]((https://www.linkedin.com/in/daniel-inioluwa-oyebode-ambcs-736b9115a/)) · [GitHub]((https://github.com/OyebodeDaniel))
+[LinkedIn](https://www.linkedin.com/in/daniel-inioluwa-oyebode-ambcs-736b9115a/) · [GitHub](https://github.com/OyebodeDaniel)
