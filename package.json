@@ -1,0 +1,21 @@
+{
+  "name": "playwright-automationexercise-ui",
+  "version": "1.0.0",
+  "description": "UI automation test suite for SauceDemo (Swag Labs) using Playwright with Page Object Model, GitHub Actions CI, and Allure reporting.",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "allure:open": "allure open allure-report",
+    "lint": "eslint tests/ pages/"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "allure-playwright": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "eslint": "^9.0.0"
+  },
+  "author": "Daniel Oyebode",
+  "license": "MIT"
+}
