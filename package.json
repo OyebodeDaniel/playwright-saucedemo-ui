@@ -1,5 +1,5 @@
 {
-  "name": "playwright-automationexercise-ui",
+  "name": "playwright-saucedemo-ui",
   "version": "1.0.0",
   "description": "UI automation test suite for SauceDemo (Swag Labs) using Playwright with Page Object Model, GitHub Actions CI, and Allure reporting.",
   "scripts": {
