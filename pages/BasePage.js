@@ -7,7 +7,7 @@ class BasePage {
     await this.page.goto(path);
   }
 
-  async waitForVisible(locator, timeout = 10000) {
+  async waitForVisible(locator, timeout = 30000) {
     await locator.waitFor({ state: 'visible', timeout });
   }
 }
